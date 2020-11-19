@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Georgios github stats](https://github-readme-stats.vercel.app/api?username=GeorgiosP&show_icons=true&theme=radical)
+![Georgios github stats](https://github-readme-stats.vercel.app/api?username=GeorgiosP&show_icons=true&theme=radical&count_private=true)
