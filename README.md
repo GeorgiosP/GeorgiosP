@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 👨‍💻 Currently Working [@CircleCI](https://github.com/circleci) 
+- :heart: All things Javascript/Typescript
 
-![Georgios github stats](https://github-readme-stats.vercel.app/api?username=GeorgiosP&show_icons=true&theme=radical&count_private=true)
+![Georgios github stats](https://github-readme-stats.vercel.app/api?username=GeorgiosP&show_icons=true&theme=synthwave&count_private=true)
