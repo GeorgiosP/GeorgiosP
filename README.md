@@ -3,7 +3,7 @@
 
 - 👨‍💻 Currently Working [@CircleCI](https://github.com/circleci) 
 - :heart: All things Javascript/Typescript
-- ✨ Always looking to colloborate on something cool
+- ✨ Always looking to collaborate on something cool
 
 ### 🌎 Places you can find me
 &nbsp;
