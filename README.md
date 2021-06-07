@@ -1,4 +1,4 @@
-### Hi there :v:🌝 , I'm Georgios Toronto based software engineer
+### Hi there :v:🌝 , I'm Georgios Toronto based Software Engineer
 
 
 - 👨‍💻 Currently Working [@CircleCI](https://github.com/circleci) 
