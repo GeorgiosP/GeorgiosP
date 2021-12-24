@@ -1,6 +1,5 @@
 ## Hi there :v:🌝 , I'm Georgios Toronto based Software Engineer
 
-- 👨‍💻 Currently Working [@CircleCI](https://github.com/circleci) 
 - :heart: All things Javascript/Typescript 
 - ✨ Always looking to collaborate on something cool 
 
